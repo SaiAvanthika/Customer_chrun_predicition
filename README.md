@@ -1,4 +1,4 @@
-# Customer_chrun_predicition
+# Customer_churn_predicition
  The telecom industry's high churn rate and the importance of predictive analytics to retain customers. Its objectives include analyzing churn percentages, gender-based patterns, service preferences, and profitability to reduce customer attrition and foster growth.
 
 # What is Customer Churn?
