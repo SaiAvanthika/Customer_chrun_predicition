@@ -18,7 +18,7 @@ To detect early signs of potential churn, one must first develop a holistic view
 As a result, by addressing churn, these businesses may preserve their market position and grow and thrive. The more customers they have in their network, the lower the cost of initiation and the larger the profit. As a result, the company's key focus for success is reducing client attrition and implementing an effective retention strategy.
 
 
-#Objectives
+# Objectives
 Here we will explore the data and try to answer some questions:
 What's the % of Churn Customers and customers that keep in with the active services?
 Are there any patterns in Churn Customers based on gender?
